@@ -15,7 +15,7 @@ import {
 export default class  extends Component {
   country="us"
   pageSize=6;
-  apiKey=process.env.REACT_APP_NEWS_APIKEY
+  apiKey='7eea8bb58dda43b78f524d7a9eb29836'
   render() {
     return (
       <BrowserRouter>
